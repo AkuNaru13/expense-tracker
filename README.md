@@ -50,23 +50,4 @@ Returns expenses with:
 
 ---
 
-## Run Locally
 
-```bash
-npm install
-npm run dev
-
-
-
-👉 Save the file
-
----
-
-# STEP 2 — Initialize Git
-
-In your terminal (same folder):
-
-```bash
-git init
-git add .
-git commit -m "initial expense tracker (API + UI complete)"
